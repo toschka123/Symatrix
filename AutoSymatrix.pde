@@ -49,23 +49,6 @@ void draw(){
       ellipse( 1048-y,x,circleSize, circleSize);
       ellipse( y,1048-x,circleSize, circleSize);
       endShape();
-      
- /* float x2 = 1048-(noise(xoff) * width)/2;
-  float y2 = 1048-(noise(yoff) * height)/2;
-  int(x2);
-  int(y2);
-      beginShape();
-      ellipse(x2, y2,circleSize, circleSize);
-      ellipse(y2, x2,circleSize, circleSize);
-      ellipse(1048-x2, 1048-y2,circleSize, circleSize);
-      ellipse(1048-x2, y2,circleSize, circleSize);
-      ellipse(x2, 1048-y2,circleSize, circleSize);
-      ellipse(1048-y2,1048-x2,circleSize, circleSize);   
-      ellipse( 1048-y2,x2,circleSize, circleSize);
-      ellipse( y2,1048-x2,circleSize, circleSize);
-      endShape();*/
-
- 
  
  
 if (colorChangeMode==true){
