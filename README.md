@@ -3,11 +3,11 @@ A symetric interactive program that produces shapes and patterns based on mouse 
 
 Controls: 
 '+' for growing the circle <br>
-'-' for shrinking the circle\n
-'p' for pulsating, P to turn of pulsating\\
-'c' for color changing mode, 'C' to turn it off
-space to erase everything and make the background black
-';' to erase everything and make the background white 
+'-' for shrinking the circle<br>
+'p' for pulsating, P to turn of pulsating <br>
+'c' for color changing mode, 'C' to turn it off <br>
+space to erase everything and make the background black <br>
+';' to erase everything and make the background white <br>
 
-try holding a, s and d to increase the red, green and blue values of the circle and A,S,D to decrease the values
-with a, s, d you can do the same for the circle stroke (outline)  
+try holding a, s and d to increase the red, green and blue values of the circle and A,S,D to decrease the values<br>
+with a, s, d you can do the same for the circle stroke (outline)  <br>
