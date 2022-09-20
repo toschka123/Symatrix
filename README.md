@@ -11,3 +11,6 @@ space to erase everything and make the background black <br>
 
 try holding a, s and d to increase the red, green and blue values of the circle and A,S,D to decrease the values<br>
 with a, s, d you can do the same for the circle stroke (outline)  <br>
+
+AutoSymatrix is an attempt to automate the drawing process.<br>
+PatternGenerator is an interesting byproduct that creates complex patterns in quick succession.
