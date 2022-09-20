@@ -2,7 +2,7 @@
 A symetric interactive program that produces shapes and patterns based on mouse movement 
 
 Controls: 
-'+' for growing the circle \n
+'+' for growing the circle <br>
 '-' for shrinking the circle\n
 'p' for pulsating, P to turn of pulsating\\
 'c' for color changing mode, 'C' to turn it off
