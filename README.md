@@ -1,5 +1,4 @@
-#![Uploading photo_5281021028031643652_y.jpg…]()
-
+![ExamplePictureSymatrix](https://github.com/toschka123/Symatrix/assets/97736572/8a6d62b6-9359-4606-934a-0909b7df95ba)
  Symatrix
 A symetric interactive program that produces shapes and patterns based on mouse movement 
 
